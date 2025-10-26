@@ -1,5 +1,5 @@
 # VERDICTO-AI (AI-Powered Legal Assistant)
-# HACKATHON WINNING PROJECT OF A.I.C.A (Team lead. Eldo John Giby) | HackElite (2025) | October 14-15 
+# Hackathon Winning Project Of Team A.I.C.A (Team lead. Eldo John Giby) | HackElite (2025) | October 14-15 
 
 
 
@@ -7,7 +7,7 @@
 
 **Justice, Accelerated by AI**
 
-LexAI UI is a futuristic, ultra-modern AI-powered legal assistant designed to accelerate justice through transparent, accessible, and unbiased analysis. Built with cutting-edge technologies, it provides AI-driven case predictions, bias detection, legal research capabilities, document management, and comprehensive analysis reports.
+Verdicto AI is a futuristic, ultra-modern AI-powered legal assistant designed to accelerate justice through transparent, accessible, and unbiased analysis. Built with cutting-edge technologies, it provides AI-driven case predictions, bias detection, legal research capabilities, document management, and comprehensive analysis reports.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-2.0.0-green.svg)
