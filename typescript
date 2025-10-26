@@ -1,0 +1,1 @@
+setTranscript((prev) => prev + finalTranscript + interimTranscript);
