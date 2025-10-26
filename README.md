@@ -1,5 +1,6 @@
 # LexAI UI - AI-Powered Legal Assistant
 
+HACKATHON WINNER PROJECT OF A.I.C.A (Team lead. Eldo John Giby) | HackElite (2025)
 **Justice, Accelerated by AI**
 
 LexAI UI is a futuristic, ultra-modern AI-powered legal assistant designed to accelerate justice through transparent, accessible, and unbiased analysis. Built with cutting-edge technologies, it provides AI-driven case predictions, bias detection, legal research capabilities, document management, and comprehensive analysis reports.
