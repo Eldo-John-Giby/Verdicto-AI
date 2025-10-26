@@ -1,6 +1,5 @@
 # VERDICTO-AI (AI-Powered Legal Assistant)
-
-#HACKATHON WINNER PROJECT OF A.I.C.A (Team lead. Eldo John Giby) | HackElite (2025) | October 14-15 
+# HACKATHON WINNING PROJECT OF A.I.C.A (Team lead. Eldo John Giby) | HackElite (2025) | October 14-15 
 
 
 
